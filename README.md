@@ -27,4 +27,4 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1. **Clone o repositório para sua máquina local:**
    ```bash
-   git clone [https://github.com/theualves/gerenlib-mobile.git](https://github.com/theualves/gerenlib-mobile.git)
+   git clone https://github.com/theualves/gerenlib-mobile.git
